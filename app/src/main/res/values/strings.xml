@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">free_tution</string>
+    <string name="name">Free Tution</string>
+    <string name="lable2">Subject</string>
+    <string name="btn1">Submit</string>
+    <string name="home1">Home</string>
+    <string name="profile1">Profile</string>
+    <string name="tution1">Free Tution</string>
+    <string name="need1">Need Item</string>
+    <string name="available">Available Item</string>
+    <string name="namet">Name</string>
+    <string name="item">Available</string>
+    <string name="donate">Donate</string>
+    <string name="Date">Date</string>
+    <string name="Subject">Subject</string>
+    <string name="lable">Place</string>
+    <string name="time">Time</string>
+    <string name="phone">Phone</string>
+    <string name="rname">Sadun Nimsara</string>
+    <string name="subr">Physics</string>
+    <string name="d1r">Sunday</string>
+    <string name="pla1r">Pencile Opere-Kurunagala</string>
+    <string name="timer1">7.00-11.00AM</string>
+    <string name="p1">0714586321</string>
+    <string name="rbt1">Update</string>
+    <string name="rbt2">Delete</string>
+    <string name="pl">Place</string>
+    <string name="updes">Update Tution Details</string>
+    <string name="cancle1">cancle</string>
+    <string name="save">Save</string>
+    <string name="deletep">Delete Tution Details</string>
+    <string name="d1">Are you sure  you want to delete?</string>
+    <string name="Name" />
+    <string name="required">required</string>
+</resources>
